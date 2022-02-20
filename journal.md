@@ -24,9 +24,13 @@ Last week I read over several papers, mostly the ones listed above plus a couple
 # February 20, 2022
 
 Problem Statement:
+
 Input:
+
 Output:
+
 Dataset:
+
 Possible Procedure:
 
 Rough Outline:
