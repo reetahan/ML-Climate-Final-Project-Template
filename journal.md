@@ -20,3 +20,13 @@ https://dl.acm.org/doi/pdf/10.1145/3397269
 # February 11, 2022
 
 Last week I read over several papers, mostly the ones listed above plus a couple more recent ones that are to be added, and began to construct a prelimiary outline. I am finishing up some notes on those papers as well. I will aim to publish a more polished problem statement, with inputs, outputs, and outline by early next week.
+
+# February 20, 2022
+
+Problem Statement:
+Input:
+Output:
+Dataset:
+Possible Procedure:
+
+Rough Outline:
