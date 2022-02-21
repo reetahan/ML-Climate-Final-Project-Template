@@ -23,14 +23,18 @@ Last week I read over several papers, mostly the ones listed above plus a couple
 
 # February 20, 2022
 
-Problem Statement:
+Problem Statement: We want to 
 
-Input:
+Input: Data representing key statistics to inform of the overall intensity of the 2020 and 2021 Atlantic Hurricane seasons, such as ACE, as well as model simulated data from AOML to represent hurricane seasons with lesser degrees of climate change
 
-Output:
+Output: Degree of attribution anthropogenic climate change claims for these hurricane seasons
 
 Dataset:
 
-Possible Procedure:
 
 Rough Outline:
+March 1 - 
+March 15 - 
+March 30 -
+April 15 -
+May 1 - 
