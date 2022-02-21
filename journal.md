@@ -29,12 +29,15 @@ Input: Data representing key statistics to inform of the overall intensity of th
 
 Output: Degree of attribution anthropogenic climate change claims for these hurricane seasons
 
-Dataset:
-
 
 Rough Outline:
+
 March 1 - 
+
 March 15 - 
+
 March 30 -
+
 April 15 -
+
 May 1 - 
