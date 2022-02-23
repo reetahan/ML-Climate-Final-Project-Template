@@ -6,20 +6,20 @@ that would be needed so I can give myself a proper timeline for the project.
 
 Here are some of the links to the papers I have been reading:
 
-https://ftp.cs.ucla.edu/pub/stat_ser/r451-reprint.pdf
-https://www.pnas.org/content/108/42/17296
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1239917/
-https://pubs.acs.org/doi/pdf/10.1021/acs.est.1c02204
-https://journals.ametsoc.org/view/journals/clim/25/17/jcli-d-11-00387.1.xml
-https://www.nature.com/articles/s41467-020-15195-y.pdf
-https://ftp.cs.ucla.edu/pub/stat_ser/r481-reprint.pdf
-https://arxiv.org/pdf/1605.09370.pdf
-https://arxiv.org/pdf/2104.04008.pdf
-https://dl.acm.org/doi/pdf/10.1145/3397269
-https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL075888
-https://iopscience.iop.org/article/10.1088/1748-9326/aba3d4/meta
-https://wcd.copernicus.org/articles/1/313/2020/wcd-1-313-2020.html#&gid=1&pid=1
-https://assets.researchsquare.com/files/rs-1068304/v1_covered.pdf?c=1641935495
+* https://ftp.cs.ucla.edu/pub/stat_ser/r451-reprint.pdf
+* https://www.pnas.org/content/108/42/17296
+* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1239917/
+* https://pubs.acs.org/doi/pdf/10.1021/acs.est.1c02204
+* https://journals.ametsoc.org/view/journals/clim/25/17/jcli-d-11-00387.1.xml
+* https://www.nature.com/articles/s41467-020-15195-y.pdf
+* https://ftp.cs.ucla.edu/pub/stat_ser/r481-reprint.pdf
+* https://arxiv.org/pdf/1605.09370.pdf
+* https://arxiv.org/pdf/2104.04008.pdf
+* https://dl.acm.org/doi/pdf/10.1145/3397269
+* https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL075888
+* https://iopscience.iop.org/article/10.1088/1748-9326/aba3d4/meta
+* https://wcd.copernicus.org/articles/1/313/2020/wcd-1-313-2020.html#&gid=1&pid=1
+* https://assets.researchsquare.com/files/rs-1068304/v1_covered.pdf?c=1641935495
 
 
 # February 11, 2022
