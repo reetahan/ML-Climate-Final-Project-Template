@@ -32,7 +32,7 @@ The paper listing has been updated. This week has been a rather busy one for me 
 
 # February 20, 2022
 
-Problem Statement: We want to determine a quantified degree of attribution that humans have had on the last two Atlantic hurricane seasons, some of the most active in history. We can use counterfactual causal inference theory in order to deem this, provided we can acquire the appropriate data. In order to come up with the "counterfactual" side of the data to attempt an evaluation, we can use simulation software and modelling such as FLOR by   Simulations that 
+Problem Statement: We want to determine a quantified degree of attribution that humans have had on the last two Atlantic hurricane seasons, some of the most active in history. We can use counterfactual causal inference theory in order to deem this, provided we can acquire the appropriate data. In order to come up with the "counterfactual" side of the data to attempt an evaluation, we can use simulation software and modelling such as FLOR by allow us to tinker with some of the atmospheric signals of climate change. The factual data to provide the intensity of the actual hurricane seasons is readily present. 
 
 Input: Data representing key statistics to inform of the overall intensity of the 2020 and 2021 Atlantic Hurricane seasons, such as ACE, as well as model simulated data from AOML to represent hurricane seasons with lesser degrees of climate change
 
