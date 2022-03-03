@@ -50,3 +50,7 @@ March 30 - Run full counterfactual analysis and consider trying alternate/refini
 April 15 - Extra time to re-run experiments, make adjustments, etc, Complete video.
 
 May 1 (?) - Complete paper. 
+
+# March 2, 2022
+
+Updated and uploaded the abstract, got responses from contacts in aerosols and climate research regarding simulation software suggestions for my intended use case, looked a bit into NCAR's MPAS and FLOR's GFDL. Starting to write down and compile notes of the methodologies from papers and math behind them to start trying to form my own.
