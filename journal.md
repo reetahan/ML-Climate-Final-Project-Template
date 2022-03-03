@@ -41,9 +41,9 @@ Output: Degree of attribution anthropogenic climate change claims for these hurr
 
 Rough Outline:
 
-March 1 - Complete formalization of methodology of inference process, may try to make novel method that builds on top of methods I have read in papers in addition to what I have learned in class. Also, upload abstract.
+March 5 - Complete formalization of methodology of inference process, may try to make novel method that builds on top of methods I have read in papers in addition to what I have learned in class. Also, upload abstract.
 
-March 15 - Complete usage and training of simulation software to generate desired counterfactual output of choice (the factual data is already present and available)
+March 21 - Complete usage and training of simulation software to generate desired counterfactual output of choice (the factual data is already present and available)
 
 March 30 - Run full counterfactual analysis and consider trying alternate/refining methodology if needed
 
