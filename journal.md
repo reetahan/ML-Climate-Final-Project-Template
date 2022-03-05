@@ -58,5 +58,15 @@ Updated and uploaded the abstract, got responses from contacts in aerosols and c
 # March 5, 2022
 
 Here is my revised list of literature sources that are being combed:
+Paper Categories
+
+## Counterfactual Causal Analysis and Climate Effects
+
+## Hurricanes and Climate Change Connection Studies
+
+## Non-(Pearl Causal) General Climate Phenomena Attribution Studies
+
+## Additional Papers of Use
+
 
 I have also uploaded the datasets and plots of some metrics for the factual world.
