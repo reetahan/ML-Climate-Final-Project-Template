@@ -59,6 +59,10 @@ Updated and uploaded the abstract, got responses from contacts in aerosols and c
 
 Here is my revised list of literature sources that are being combed:
 
+## 2022-03-07 check in: alp
+
+Looking solid. Would encourage you to try out existing methods and get some initial simulations before exploring novel approaches.
+
 ## Paper Categories
 
 ### Counterfactual Causal Analysis and Climate Effects
