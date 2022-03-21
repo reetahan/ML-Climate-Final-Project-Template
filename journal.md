@@ -75,3 +75,10 @@ Looking solid. Would encourage you to try out existing methods and get some init
 
 
 I have also uploaded the datasets and plots of some metrics for the factual world.
+
+# March 14, 2022
+
+I have been able to acquire some data regarding simulations done using aforementioned simulation softwa re, as actual usage of them requires supercomputing power far beyond the scope of what is offered through GCP or my research group even.
+
+# March 20,2022
+I have compiled several current methodologies to try in regards to the counterfactual analysis of data. I will work on seeing how I can coalescing the data I have and doing some data processing to get it into a useable form. I will complete the uploading of my revised literature sources as well as methodology notes next week, seeing as I have many other deadlines this week I need to get past first before refocusing on this project,
