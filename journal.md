@@ -66,12 +66,41 @@ Looking solid. Would encourage you to try out existing methods and get some init
 ## Paper Categories
 
 ### Counterfactual Causal Analysis and Climate Effects
+https://ftp.cs.ucla.edu/pub/stat_ser/r451-reprint.pdf
+https://www.pnas.org/doi/10.1073/pnas.1104268108
+https://arxiv.org/pdf/2104.04008.pdf
+https://assets.researchsquare.com/files/rs-1068304/v1_covered.pdf?c=1641935495
+https://www.science.org/doi/full/10.1126/sciadv.aaw9253
+https://iopscience.iop.org/article/10.1088/1748-9326/aa9ef2
+https://cpb-us-e1.wpmucdn.com/you.stonybrook.edu/dist/4/945/files/2018/09/climate_change_Florence_0911201800Z_final-262u19i.pdf
 
 ### Hurricanes and Climate Change Connection Studies
+https://climatemodeling.science.energy.gov/presentations/climate-change-attribution-extreme-rainfall-throughout-hurricane-season
+https://www.gfdl.noaa.gov/global-warming-and-hurricanes/
+https://www.climatesignals.org/events/atlantic-hurricane-season-2020
+https://www.gfdl.noaa.gov/bibliography/related_files/tk0401.pdf
+https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2006GL026869
+https://link.springer.com/article/10.1007/s00382-013-1713-0
 
 ### Non-(Pearl Causal) General Climate Phenomena Attribution Studies
+https://pubs.acs.org/doi/pdf/10.1021/acs.est.1c02204
+https://www.nature.com/articles/s41467-020-15195-y.pdf
+https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL075888
+https://wcd.copernicus.org/preprints/wcd-2021-64/wcd-2021-64.pdf
+https://ascmo.copernicus.org/articles/6/177/2020/
+https://www.worldweatherattribution.org/pathways-and-pitfalls-in-extreme-event-attribution/
+https://www.cell.com/one-earth/fulltext/S2590-3322(20)30247-5
 
-### Additional Papers of Use
+### Non Counterfactual Climate Change Causal Analysis
+https://journals.ametsoc.org/view/journals/clim/25/17/jcli-d-11-00387.1.xml
+https://arxiv.org/pdf/1605.09370.pdf
+https://iopscience.iop.org/article/10.1088/1748-9326/aba3d4/meta
+https://wcd.copernicus.org/articles/1/313/2020/wcd-1-313-2020.html#&gid=1&pid=1
+
+### General Causal Inference and Counterfactual Analysis
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1239917/
+https://ftp.cs.ucla.edu/pub/stat_ser/r481-reprint.pdf
+https://dl.acm.org/doi/pdf/10.1145/3397269
 
 
 I have also uploaded the datasets and plots of some metrics for the factual world.
