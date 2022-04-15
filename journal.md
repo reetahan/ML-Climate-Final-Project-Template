@@ -116,7 +116,7 @@ I have compiled several current methodologies to try in regards to the counterfa
 
 I have done some initial data anaylsis of the distributions of my data and the counterfactual data as well.
 
-# April 3,2022
+# April 3, 2022
 
 I have used time series forecasting and several regression techniques to come up with a couple possible possible sets of values for the counterfactual values of my current features
 
