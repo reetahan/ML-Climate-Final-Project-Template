@@ -121,9 +121,13 @@ I have done some initial data anaylsis of the distributions of my data and the c
 I have used time series forecasting and several regression techniques to come up with a couple possible possible sets of values for the counterfactual values of my current features
 
 # April 11, 2022
+I have spent some time experimenting with using AutoML, considering predictions on the yearly and monthly scales, considering using PCA and LLE, a water mask to make sure I am only using sea locations for predictions, etc.
 
 # April 12, 2022
+I have spent some time writing up a CNN as an alternative to the LGBM AutoML suggested.
 
 # April 13, 2022
+I have spent some time developing the necessary distribution to model my problem in the same vein as the Hannart/Pearl paper to generate a result about the attribution!
 
-# April 14, 2022
+# April 15, 2022
+I have worked on uploading a video with my current progress!
