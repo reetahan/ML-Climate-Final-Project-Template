@@ -131,3 +131,6 @@ I have spent some time developing the necessary distribution to model my problem
 
 # April 15, 2022
 I have worked on uploading a video with my current progress!
+
+# April 24, 2022
+I have made some simplifications and alterations to my time series regression forecasting strategy. I have also located the factual simulations from the same source as my counterfactual ones, to use as well.
