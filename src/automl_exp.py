@@ -12,11 +12,11 @@ from sklearn.manifold import LocallyLinearEmbedding
 
 
 def main():
-    exper_loc_avg_yr_avg()
-    exper_yr_avg()
-    exper_pca_yr_avg()
-    exper_lle_yr_avg()
-    exper_water_mask_yr_avg()
+    #exper_loc_avg_yr_avg()
+    #exper_yr_avg()
+    #exper_pca_yr_avg()
+    #exper_lle_yr_avg()
+    #exper_water_mask_yr_avg()
     exper_month_avg()
 
 
@@ -122,7 +122,7 @@ def automl_train_test(X_train,X_test,y_train,y_test):
             "metric": 'rmse',
             "estimator_list": 'auto',
             "task": 'regression',
-            "time_budget": 300,
+            "time_budget": 3000,
             "log_file_name": "./automl_factual.log",
         }
     automl.fit(X_train=X_train, y_train=y_train,**automl_settings)
