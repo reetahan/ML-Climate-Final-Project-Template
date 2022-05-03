@@ -133,10 +133,13 @@ I have spent some time developing the necessary distribution to model my problem
 I have worked on uploading a video with my current progress!
 
 # April 24, 2022
-I have made some simplifications and alterations to my time series regression forecasting strategy. I have also located the factual simulations from the same source as my counterfactual ones, to use as well.
+I have made some simplifications and alterations to my time series regression forecasting strategy. I noted an issue with the ARIMA method and will only re-run it if there is time. I have also located the factual simulations from the same source as my counterfactual ones, to use as well.
 
 # April 30, 2022
 I have done some analysis of the raw data, and am trying to interpret some of the theory of the partial counterfactual identificaiton paper.
 
 # May 1, 2022
 I have uploaded most of the raw notebooks and some of the data used - everything still needs to be cleaned up still. At this point I will cease experimentation and focus on the paper write-up. I do plan on coming back to experimentation as I do feel there is some serious potential here.
+
+#May 2, 2022
+I have uploaded the paper.
